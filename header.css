@@ -29,3 +29,9 @@
   .container__botao:checked ~ .lista-menu {
     display: block;
   }
+
+  .lista-menu_titulo,
+  .lista-menu_item{
+    padding: lem;
+    background-color: var(--branco);
+  }
