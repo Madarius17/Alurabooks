@@ -35,3 +35,7 @@
     padding: lem;
     background-color: var(--red);
   }
+
+  .lista-menu_titulo {
+    color: var(--laranja);
+  }
